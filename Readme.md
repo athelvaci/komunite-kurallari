@@ -14,3 +14,11 @@ Prensipler
 Nasıl Katkı Sağlarım?
 ==============
 Kurallara katkı sağlamak için bu repository'i fork'layıp yeni bir Pull Request gönderebilirsiniz. Bunlar topluluk üyeleri tarafından tartışılarak eklenip eklenmeyeceğine karar verilecektir.
+
+Önerilenler
+=========
+
+1. Blockchain teknolojisine yeni başlayanlar için bir channel oluşturulabilinir. Böylelikle blockchain teknolojisine veya kodlamaya yeni başlayacak kişilerin soruları bu alanda cevaplanabilir. 
+2. Ethereum solidity ve Hyperledger olarak iki farklı soru cevap channelı oluşturulabilir. Bu kısımda kullanıcılar geliştirdikleri blockchain projelerini paylaşabilir, yardımlaşabilirler ve spesifik sorular sorabilirler. 
+3. Bir fikrim var tarzında bir channel da oluşturulabilir. En saçma sapan fikirlerden bile bazen güzel projeler çıkabilir ve geliştirmek için adım atılabilinir.
+
